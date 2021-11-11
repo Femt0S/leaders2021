@@ -16,4 +16,4 @@
 
 ## Дополнительные данные:
 
-[extracted_points.csv](extracted_points.csv) - собранные данные с портала [ИАИС ОГД](https://isogd.mos.ru/isogd-portal/home) о реальном местоположении строительства перспективных объектов здравоохранения.
+- [extracted_points.csv](extracted_points.csv) - собранные данные с портала [ИАИС ОГД](https://isogd.mos.ru/isogd-portal/home) о реальном местоположении строительства перспективных объектов здравоохранения.
